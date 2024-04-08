@@ -1,1 +1,1 @@
-test githuba
+print 'hello world'
