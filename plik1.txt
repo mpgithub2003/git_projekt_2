@@ -1,1 +1,3 @@
 print 'hello world'
+print 'hello from master'
+print 'zmiana pierwsza dev'
