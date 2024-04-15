@@ -1,6 +1,10 @@
 print 'hello world'
 print 'hello from master'
+<<<<<<< HEAD
 print 'zmiana pierwsza dev'
 print 'zmiana druga dev'
 print 'zmiana trzecia dev'
 print 'czwarta zmiana dev'
+=======
+print 'zmiana pierwsza dev'
+>>>>>>> parent of 091ba7d (wprowadzono trzecią zmiane)
